@@ -1,16 +1,8 @@
 total 100
 drwx------  9 root root  4096 Dec 22 22:32 .
-drwxr-xr-x 23 root root  4096 Dec 22 11:31 ..
--rw-------  1 root root 39253 Dec 22 22:58 .bash_history
--rw-r--r--  1 root root  3106 Feb 20  2014 .bashrc
-drwx------  9 root root  4096 Jun 30 02:15 .cache
-drwxr-xr-x  3 root root  4096 Dec 18 21:51 .chef
-drwxr-xr-x  7 root root  4096 Dec 17 18:23 chef-repo
--rw-r--r--  1 root root    51 Dec 22 19:17 .gitconfig
-drwx------  2 root root  4096 Dec 15 21:34 .gnupg
-drwxr-----  2 root root  4096 Dec 22 17:10 .hplip
--rw-------  1 root root  1570 Jun 30 02:13 .ICEauthority
-drwxr-xr-x  2 root root  4096 Jul  3 01:25 pip
 -rw-r--r--  1 root root   140 Feb 20  2014 .profile
 drwx------  2 root root  4096 Dec 18 20:27 .ssh
 -rw-------  1 root root  6729 Dec 22 22:32 .viminfo
+asdfasd
+as
+dfa
